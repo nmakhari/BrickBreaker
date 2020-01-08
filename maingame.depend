@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1528388628 source:g:\grade 11\semester 2\com sci\projects\final project\maingame\maingame.c
+	<stdio.h>
+	<string.h>
+	<graphics.h>
+	<stdlib.h>
+
+1266119414 s:\out\mr. kwan (computer)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1528841475 source:c:\users\diana\desktop\daii\school\grade 11\semester 2\com sci\projects\final project\maingame\maingame.c
+	<stdio.h>
+	<string.h>
+	<graphics.h>
+	<stdlib.h>
+	<conio.h>
+
+1266115814 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1529344898 source:\\2552-cms-01\2552 students$\561973\documents\c programming\maingame\maingame.c
+	<stdio.h>
+	<string.h>
+	<graphics.h>
+	<stdlib.h>
+	<conio.h>
+
+1578443859 source:c:\users\diana\desktop\daii\school\coding\brickbreaker\maingame.c
+	<stdio.h>
+	<string.h>
+	<graphics.h>
+	<stdlib.h>
+	<conio.h>
+
